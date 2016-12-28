@@ -537,6 +537,14 @@ module.exports = {
                 "crucible",
                 "hip chat"
             ]
+        },
+        {
+            "What is a two-pizza team?": [
+                "A team that can be reasonably fed by two pizzas. Popularized by Amazon.",
+                "A team that can make two pizzas at a time. Popularized by Domino's",
+                "One very large man, popularized by Chris Chirstie",
+                "A team of people who can each make one pizza. Popularized by Little Caesars"
+            ]
         }
     ]
 };
