@@ -426,7 +426,7 @@ module.exports = {
         },
         {
             "Which of these statements are true?": [
-                "All other answers"
+                "All other answers",
                 "DevOps looks to extend Dev into Production",
                 "DevOps looks to embed Development into IT Operations",
                 "DevOps looks to embed IT Operations into Development"
